@@ -1,5 +1,5 @@
 # Web-Controlled ESP8266 Water Pump System
-
+---- This is the final setting
 This project allows you to command a physical water pump directly from a web browser interface. It uses Google Chrome's Web Serial API to communicate directly with a NodeMCU (ESP8266) over USB, which then triggers a 5V relay module powered by an external battery.
 
 ## 🛠️ Hardware Requirements
